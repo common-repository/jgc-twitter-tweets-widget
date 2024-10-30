@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JGC Twitter Tweets Widget\n"
+"POT-Creation-Date: 2017-01-20 09:09+0100\n"
+"PO-Revision-Date: 2017-01-20 09:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/jgc-widget-twitter-tweets.php:31
+msgid "Display Twitter Timeline."
+msgstr "Muestra la línea de tiempo de Twitter"
+
+#: inc/jgc-widget-twitter-tweets.php:34
+#, fuzzy
+msgid "(JGC) Twitter Tweets Widget"
+msgstr "Nucleus Twitter Tweets."
+
+#: inc/jgc-widget-twitter-tweets.php:57
+msgid "Title"
+msgstr "Título"
+
+#: inc/jgc-widget-twitter-tweets.php:62
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: inc/jgc-widget-twitter-tweets.php:67
+msgid "Theme"
+msgstr "Tema"
+
+#: inc/jgc-widget-twitter-tweets.php:71
+msgid "Light"
+msgstr "Claro"
+
+#: inc/jgc-widget-twitter-tweets.php:72
+msgid "Dark"
+msgstr "Oscuro"
+
+#: inc/jgc-widget-twitter-tweets.php:77
+msgid "Height"
+msgstr "Altura"
+
+#: inc/jgc-widget-twitter-tweets.php:82
+msgid "Link Color"
+msgstr "Color de enlace"
+
+#: inc/jgc-widget-twitter-tweets.php:90
+#, fuzzy
+msgid "Take a look to our Themes"
+msgstr "Échale un vistazo a nuestros Temas"
